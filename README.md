@@ -1,10 +1,4 @@
-# BEZIER BAR (NAVEGACIÓN Y ORIENTACIÓN)
-## INSTRUCCIONES PARA EMPEZAR
-Asegurate que tienes NODE instalado y ejecuta:
-
-```sh
-npm install
-```
+MIS AVANCES EN: https://github.com/iwergithub/mi_nav1
 
 # Brief de Diseño para el Sitio Web de Bezier Bar
 
